@@ -1,0 +1,23 @@
+{
+  "name": "weihnachten-theme",
+  "displayName": "Weihnachten Theme 🎄",
+  "description": "Three cozy Christmas color themes: Tannengrün (dark), Schnee (light) and Lebkuchen (warm dark).",
+  "version": "1.0.0",
+  "publisher": "ric3",
+  "license": "MIT",
+  "icon": "icon.png",
+  "galleryBanner": { "color": "#0a130e", "theme": "dark" },
+  "engines": { "vscode": "^1.80.0" },
+  "categories": ["Themes"],
+  "keywords": ["christmas", "weihnachten", "theme", "dark", "light", "winter", "xmas"],
+  "repository": { "type": "git", "url": "https://github.com/ric3-12/vscode-weihnachten-theme.git" },
+  "bugs": { "url": "https://github.com/ric3-12/vscode-weihnachten-theme/issues" },
+  "homepage": "https://github.com/ric3-12/vscode-weihnachten-theme#readme",
+  "contributes": {
+    "themes": [
+      { "label": "Weihnachten Tannengrün", "uiTheme": "vs-dark", "path": "./themes/weihnachten-tannengruen-color-theme.json" },
+      { "label": "Weihnachten Schnee", "uiTheme": "vs", "path": "./themes/weihnachten-schnee-color-theme.json" },
+      { "label": "Weihnachten Lebkuchen", "uiTheme": "vs-dark", "path": "./themes/weihnachten-lebkuchen-color-theme.json" }
+    ]
+  }
+}
