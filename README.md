@@ -94,7 +94,7 @@ Auswählen mit `Ctrl+K Ctrl+T` → eine der **Weihnachten**-Varianten. Passend d
 
 ## Credits
 
-Color themes, icon and previews by [ric3-12](https://github.com/ric3-12). The theme files are generated from color palettes with [`build/generate.py`](build/generate.py), which also checks the contrast of every syntax color.
+Color themes, icon and previews by [ric3-12](https://github.com/ric3-12). The theme files are generated from color palettes with [`build/generate.py`](build/generate.py), which also checks the contrast of every syntax color. **Has been Coded with Claude as an experiment**
 
 ## Thank you
 
