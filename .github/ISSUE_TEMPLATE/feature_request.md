@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for Weihnachten Theme
+about: Suggest an idea for Cozy Christmas Theme
 title: ''
 labels: enhancement
 assignees: ''

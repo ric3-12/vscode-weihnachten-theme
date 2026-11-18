@@ -3,7 +3,7 @@ import json, os, sys
 
 PALETTES = {
     "tannengruen": dict(
-        label="Weihnachten Tannengrün", kind="dark",
+        label="Cozy Christmas Pine", kind="dark",
         bg="#0f1c14", bg2="#0d1912", bg3="#0a130e", border="#1a2e21", hl="#15281c", hover="#16291d",
         fg="#e9efe9", fg2="#cfdad1", muted="#7f9585", comment="#6b8a76", lineNr="#3f5c48",
         accent="#c4302b", accentHover="#e03a34", accentFg="#ffffff", gold="#f2c14e",
@@ -15,7 +15,7 @@ PALETTES = {
                   magenta="#e07ab8", cyan="#7fdcd3", white="#e9efe9"),
     ),
     "schnee": dict(
-        label="Weihnachten Schnee", kind="light",
+        label="Cozy Christmas Snow", kind="light",
         bg="#fbfaf7", bg2="#f3f0e9", bg3="#ebe6dc", border="#ddd6c8", hl="#f2ede3", hover="#ece6da",
         fg="#24312a", fg2="#3b4740", muted="#6b766f", comment="#717d75", lineNr="#a9b1ab",
         accent="#b3261e", accentHover="#c8352c", accentFg="#ffffff", gold="#9a6a00",
@@ -27,7 +27,7 @@ PALETTES = {
                   magenta="#9b3d7a", cyan="#16707a", white="#6b766f"),
     ),
     "lebkuchen": dict(
-        label="Weihnachten Lebkuchen", kind="dark",
+        label="Cozy Christmas Gingerbread", kind="dark",
         bg="#2a1d15", bg2="#24180f", bg3="#1d130c", border="#3b2a1e", hl="#33241a", hover="#33241a",
         fg="#f3e6d3", fg2="#e2d2bb", muted="#a88f78", comment="#9a8068", lineNr="#6a5442",
         accent="#d9603b", accentHover="#e8734d", accentFg="#1d130c", gold="#f2b45a",
